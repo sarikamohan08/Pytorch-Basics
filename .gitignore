@@ -129,4 +129,6 @@ dmypy.json
 .pyre/
 MNIST/
 data/
-.gitignore
+FashionMNISTDir/
+FashionMNISTDir1/
+06_03_session_dir/
